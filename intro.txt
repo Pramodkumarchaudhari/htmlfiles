@@ -1,0 +1,46 @@
+HTML
+----
+<>   </> - Paired tags
+
+<button>Submit</button>
+
+<>  -   Single tags
+<input type='password'>
+<img src='img_url'>
+<br>
+
+
+text,title,color,font
+h1,h2,h6
+
+header,footer
+        head,footer
+
+Buttons
+        button
+icons,images,logo,bannner
+
+img
+canvas
+i
+panel,vards
+
+div
+patagraph
+p
+
+navigation ,link
+a
+video,audio
+            video,audio
+tables
+        table,tr,td,th
+input,search
+bar,form,checkbox,radio
+input
+map
+iframe
+animation
+marquee
+dropdown
+
